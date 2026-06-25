@@ -205,7 +205,7 @@ For bank-transfer details, please contact:
 
 Bank information is shared privately for security reasons.
 
-Support is optional and does not provide permission to use VenomStrike on systems without explicit authorization.
+Support is optional and does not provide permission to use VenomStrike on systems without explicit authorization. 
 
 ---
 
